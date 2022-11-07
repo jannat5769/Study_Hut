@@ -11,4 +11,4 @@ Features:
 
 4.In navigation panel there are about us page in where users can see the informations of the coaching centre and contact us page so that users can contact to the coaching center authority.
 
-5. Users can see the location of the coaching centre in the google map.
+5.Users can see the location of the coaching centre in the google map.
